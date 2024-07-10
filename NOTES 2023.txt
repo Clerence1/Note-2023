@@ -1,0 +1,49 @@
+https://www.youtube.com/watch?v=gfkTfcpWqAY  C# Basics 101
+
+https://www.youtube.com/watch?v=-ETZ0nOCU14  C# Classes and Objects
+
+https://www.youtube.com/watch?v=BXL3cEzkFmU  Creating classes based on XSD
+
+https://www.youtube.com/watch?v=vn079h2HGEQ  Create C# class from xml
+
+https://www.youtube.com/watch?v=NKxr8BKC3hk   XSD
+
+https://www.youtube.com/watch?v=bZAvgXE5awk   Import XML Data to SQL Server using C#
+
+https://www.youtube.com/watch?v=gZs3yPhfowU   Load xml data using SSIS
+
+https://www.youtube.com/watch?v=0ikNnenDyNw   SSIS Tutorial
+
+https://www.youtube.com/watch?v=6oFAssUO7RU&list=PLCKYja4IMuy0xfOxemNQAP2kW3ywF9bPV  SSRS
+
+https://www.youtube.com/watch?v=IVquJh3DXUA LINUX Commands
+
+https://www.youtube.com/watch?v=pUzJ7sn64LA&list=PLG_QjCllP5VteQI9pS8mhr6s3-7zFQwOY web services
+
+https://www.youtube.com/watch?v=F3gVD_pAUTM  C# Inputs and Outputs
+
+https://www.youtube.com/watch?v=xzJm0lPIoJY&list=PL6n9fhu94yhW6VEqiXQvS2bLb5KaLTo7c   ASP.NET Web Services
+
+https://www.youtube.com/watch?v=DRDD7UWX2y4&t=173s  SDLC 
+
+https://www.youtube.com/watch?v=Fi3_BjVzpqk Full SDLC
+
+https://www.youtube.com/watch?v=z4JUm0Bq9AM  Angular 6
+
+https://www.youtube.com/watch?v=NKxr8BKC3hk  Generate XML to XSD and XSD to C# class
+
+https://www.youtube.com/watch?v=GhQdlIFylQ8 C# Fullcourse tutorials
+
+https://www.youtube.com/watch?v=G_wG-bzTCZY&t=570s SSIS Fullcourse 
+
+https://www.youtube.com/watch?v=nQxFm0BRQ6w&list=PLG_QjCllP5VteQI9pS8mhr6s3-7zFQwOY&index=4 web services fullcourse
+
+https://www.youtube.com/watch?v=h0nxCDiD-zg  sql fullcourse
+
+https://www.youtube.com/watch?v=BM4CHBmAPh4  C# .net tutorials
+
+https://www.youtube.com/watch?v=QBiBZ8bsfcU&t=63s dotnet fullcourse   https://www.youtube.com/watch?v=oIQdb93xewE
+
+https://www.youtube.com/watch?v=BM4CHBmAPh4&list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN C# 101(1 of 19)
+
+http://ptabresb03/ESBNewTranlog_NewProd/DefaultSearch.aspx
